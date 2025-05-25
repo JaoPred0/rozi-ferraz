@@ -12,8 +12,8 @@ const Rodape = () => {
             <p>
               Soluções criativas e personalizadas para educação inclusiva.<br />
               Endereço: Rua Salviano Pedroso, 2760, Terra Roxa, Dourados - MS<br />
-              Telefone: (67) 1234-5678<br />
-              Email: contato@exemplo.com.br
+              Telefone: (67) 99661-0494<br />
+              Email: jhonpitere163@gmail.com
             </p>
           </Col>
 
@@ -30,10 +30,10 @@ const Rodape = () => {
           <Col md={4} sm={12} className="mb-3">
             <h5 className="fw-bold">Siga-nos</h5>
             <div className="d-flex gap-3 fs-4">
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-light">
+              <a href="https://www.facebook.com/profile.php?id=61576195511107" target="_blank" rel="noopener noreferrer" className="text-light">
                 <i className="fab fa-facebook"></i>
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-light">
+              <a href="https://www.instagram.com/rozi.ferraz/" target="_blank" rel="noopener noreferrer" className="text-light">
                 <i className="fab fa-instagram"></i>
               </a>
             </div>
@@ -42,7 +42,8 @@ const Rodape = () => {
 
         <Row>
           <Col className="text-center">
-            <small>© {new Date().getFullYear()} Rozi Ferraz. Todos os direitos reservados.</small>
+            <small>© {new Date().getFullYear()} Rozi Ferraz. Todos os direitos reservados.</small> <br />
+            <small>Criador: João Pedro Cristaldo Ferraz</small>
           </Col>
         </Row>
       </Container>

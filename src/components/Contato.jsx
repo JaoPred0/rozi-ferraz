@@ -22,7 +22,7 @@ const ContactForm = () => {
     setFormData({ nome: '', email: '', mensagem: '' });
   };
 
-  const whatsappNumber = '5511999999999';
+  const whatsappNumber = '5567996610494';
   const whatsappMessage = encodeURIComponent('Olá! Gostaria de mais informações.');
 
   return (

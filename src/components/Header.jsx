@@ -23,11 +23,6 @@ const Header = () => {
             <Nav.Link href="#contato">Contato</Nav.Link>
             <Nav.Link href="#local">Local</Nav.Link>
           </Nav>
-
-          {/* Botões Responsivos */}
-          <div className="d-flex flex-column flex-lg-row align-items-center gap-3 mt-3 mt-lg-0">
-            <Button variant="dark">Register</Button>
-          </div>
         </Navbar.Collapse>
       </Container>
     </Navbar>

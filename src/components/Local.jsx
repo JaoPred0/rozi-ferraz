@@ -65,8 +65,8 @@ const Local = () => {
           
           <h4>Contato</h4>
           <p>
-            Telefone: (67) 1234-5678 <br />
-            Email: contato@exemplo.com.br
+            Telefone: (67) 99661-0494 <br />
+            Email: jhonpitere163@gmail.com
           </p>
 
           <h4>Horário de Funcionamento</h4>
